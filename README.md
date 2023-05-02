@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Repositorio de prueba del prepcourse de henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde el gitbub al local
